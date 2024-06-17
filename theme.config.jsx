@@ -16,5 +16,11 @@ export default {
             titleTemplate: '%s – Tripadvancer Help',
         }
     },
+    feedback: {
+        content: null,
+    },
+    editLink: {
+        component: null,
+    },
     footer: false,
 }
