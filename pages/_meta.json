@@ -1,3 +1,17 @@
 {
-    "index": "Overview"
+    "index": {
+        "title": "Overview"
+    },
+    "use-in-full-screen": {
+        "title": "Use in Full Screen"
+    },
+    "categories": {
+        "title": "Categories"
+    },
+    "profile": {
+        "title": "Profile"
+    },
+    "place": {
+        "title": "Place"
+    }
 }
