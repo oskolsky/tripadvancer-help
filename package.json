@@ -5,7 +5,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "^14.2.4",
+    "next": "^14.2.32",
     "nextra": "^2.13.4",
     "nextra-theme-docs": "^2.13.4",
     "react": "^18.3.1",
@@ -13,6 +13,6 @@
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
-    "prettier-plugin-tailwindcss": "^0.6.3"
+    "prettier-plugin-tailwindcss": "^0.6.14"
   }
 }
